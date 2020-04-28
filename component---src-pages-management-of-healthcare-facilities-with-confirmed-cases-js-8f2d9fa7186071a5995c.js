@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{TNmp:function(e,n,t){"use strict";t.r(n);t("q1tI");var a=t("Knq1"),i=t("k3K6"),o=t("qKvR");n.default=function(){return Object(o.d)(a.f,{post:i.g,downloads:[{sectionName:"Downloads:",links:[{text:"Management of healthcare facilities with confirmed cases",link:"/management-of-healthcare-facilities-with-confirmed-cases.pdf"}]}]})}}}]);
-//# sourceMappingURL=component---src-pages-management-of-healthcare-facilities-with-confirmed-cases-js-8f2d9fa7186071a5995c.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"P+mv":function(t,n,e){"use strict";e.r(n);e("q1tI");var s=e("1Qp6"),c=e("Knq1"),o=e("k3K6"),p=e("qKvR"),u=[o.c,o.f];n.default=function(){return Object(p.d)(c.h,{numberOfPosts:u.length,tag:o.h},Object(p.d)(s.g,{posts:u}))}}}]);
+//# sourceMappingURL=component---src-pages-screening-center-guidelines-js-fd8f52fd96fb1e1df383.js.map

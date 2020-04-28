@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{G2Ma:function(n,t,a){"use strict";a.r(t);a("q1tI");var o=a("Knq1"),e=a("k3K6"),i=a("qKvR");t.default=function(){return Object(i.d)(o.f,{post:e.c,downloads:[{sectionName:"Downloads:",links:[{text:"Drive-thru manual",link:"/KCDC-drive-thru-manual.pdf"}]}]})}}}]);
-//# sourceMappingURL=component---src-pages-kcdc-drive-thru-manual-js-950b44348bfe09dcf998.js.map

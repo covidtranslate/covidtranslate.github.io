@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{vtvr:function(n,t,o){"use strict";o.r(t);o("q1tI");var e=o("Knq1"),i=o("k3K6"),a=o("qKvR");t.default=function(){return Object(a.d)(e.f,{post:i.i,downloads:[{sectionName:"Downloads:",links:[{text:"Drive-thru manual in Sejong City",link:"/Drive-thru_Manual_Sejong.pdf"}]}]})}}}]);
-//# sourceMappingURL=component---src-pages-drive-thru-manuals-js-6530145eca174b0e05df.js.map
