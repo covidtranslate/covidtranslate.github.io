@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{x5A8:function(n,e,o){"use strict";o.r(e);o("q1tI");var t=o("Knq1"),i=o("k3K6"),s=o("qKvR");e.default=function(){return Object(s.d)(t.f,{post:i.f,downloads:[{sectionName:"Downloads:",links:[{text:"Screening center operation guidelines",link:"/screening-center-operation-guide.pdf"}]}]})}}}]);
-//# sourceMappingURL=component---src-pages-screening-center-operation-guide-js-ebd4138f4a170bf001c2.js.map
